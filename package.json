@@ -1,0 +1,24 @@
+{
+  "name": "hello_world",
+  "version": "0.0.1",
+  "description": "A hello world JSX example.",
+  "main": "hello.jsx",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test.jsx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeCanna/hello_world.git"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeCanna/hello_world/issues"
+  },
+  "homepage": "https://github.com/CodeCanna/hello_world#readme"
+}
